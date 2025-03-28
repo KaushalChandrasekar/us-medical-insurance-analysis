@@ -8,11 +8,11 @@ This analysis was implemented using core Python concepts only — no external li
 
 # 📂 Project Structure
 
+├── README.md                      # Project documentation
+
 ├── insurance.csv                  # Dataset
 
 ├── usmedicalinsurance.ipynb        # Jupyter Notebook for full analysis
-
-├── README.md                      # Project documentation
 
 # 🔍 Data Description
 
